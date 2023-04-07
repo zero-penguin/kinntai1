@@ -2,7 +2,7 @@ import datetime
 import cv2
 from pyzbar import pyzbar
 
-LOG_FILE_PATH = "log.txt"
+LOG_FILE_PATH = "../log.xlsx"
 
 cap = cv2.VideoCapture(0)
 

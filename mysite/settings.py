@@ -124,5 +124,3 @@ STATIC_ROOT = BASE_DIR / 'static'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# ログイン成功時にトップへリダイレクト
-LOGIN_REDIRECT_URL = '/'
